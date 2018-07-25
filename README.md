@@ -9,9 +9,11 @@ The Mega coordinates a few other hardware components:
  * an IR receiver for remote control
  * a real-time clock
 
-History
-  v1.0: First complete build (1/2015)
-  v1.1: Fixed IR freezing; changed display formatting; added amp_on checks to many commands;
+HISTORY
+
+v1.0: First complete build (1/2015)
+
+v1.1: Fixed IR freezing; changed display formatting; added amp_on checks to many commands;
         blocked output change on mute; enabled first input and headphone output on power-on. (7/5/2015)
   
 TODO
